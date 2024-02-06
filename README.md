@@ -9,6 +9,7 @@ Description- This is an Responsive Multipage website
    - Responsive to diffrent screen size.
    - Changes in designs in mobile screens.
    - Multipage website.
+   - Technology used- Symantic HTML, CSS ( flex and grid )
 
 2. screen shot
 
